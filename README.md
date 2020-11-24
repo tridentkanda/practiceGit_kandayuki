@@ -1,1 +1,1 @@
-# practiceGit_kandayuki
+# GitHub練習
